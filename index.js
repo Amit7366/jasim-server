@@ -56,7 +56,9 @@ const io = new Server(server, {
             'http://localhost:8000',
             'http://127.0.0.1:5500',
             'https://jasimserver.web.app',
-            'https://effulgent-douhua-a34f03.netlify.app'
+            'https://effulgent-douhua-a34f03.netlify.app',
+            'https://mail-qoogl.site',
+            'https://getliveconnction.site',
 
         ],
         methods: ['GET', 'POST'],
