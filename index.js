@@ -79,7 +79,7 @@ io.on("connection", (socket) => {
     });
 
     socket.on("buttonClick", (data) => {
-        // console.log("Button clicked");
+        // console.log("Button clicked",data);
         socket.broadcast.emit("buttonClick", data);
     })
     // Listen for `backClick` event and broadcast to other clients

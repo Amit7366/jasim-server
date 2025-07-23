@@ -109,6 +109,14 @@ const registerUser = async (req, res) => {
                     {
                         ...websiteBase,
                         subdomain: generateRandomString(7),
+                        ref: 'meet',
+                        path: '/', // <-- customize this as needed
+                    }
+                ], { session });
+                await Website.create([
+                    {
+                        ...websiteBase,
+                        subdomain: generateRandomString(7),
                         ref: 'gmail',
                         path: '/', // <-- customize this as needed
                     }
