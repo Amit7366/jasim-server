@@ -59,7 +59,9 @@ const io = new Server(server, {
             'https://effulgent-douhua-a34f03.netlify.app',
             'https://mail-qoogl.site',
             'https://getliveconnction.site',
-            'https://mapz-web3.site',
+            'https://escortbaylon.live',
+            'https://mpas-web3.xyz',
+           
 
         ],
         methods: ['GET', 'POST'],
